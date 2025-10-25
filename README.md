@@ -1,4 +1,4 @@
-DevTech_internship_tasks_for_data_science
+ 🧩 DevTech internship tasks for data science
 
 Welcome! This repository contains my beginner **Data Science** learning projects.  
 Each task explores a small dataset to practice data cleaning, analysis, and visualization using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.

@@ -3,7 +3,7 @@
 Welcome! This repository contains my beginner **Data Science** learning projects.  
 Each task explores a small dataset to practice data cleaning, analysis, and visualization using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.
 
- 📊 Task 1: Weather Data Analysis
+ 📊 Task 1: Weather Data Analysis (addis weather)
 
 **Goal:**  
 Analyze a weather dataset and find:

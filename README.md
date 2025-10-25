@@ -1,0 +1,1 @@
+# DevTech_internship_tasks_for_data_science
